@@ -1,0 +1,4 @@
+include:
+  - ".well-known"
+  - ".htaccess"
+  - ".any-other-hidden-file"
