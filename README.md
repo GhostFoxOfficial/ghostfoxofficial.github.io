@@ -1,4 +1,4 @@
-# ghostfoxofficial.github.io
+# Information
 My website with whole list of projects
 
 ## Projects
