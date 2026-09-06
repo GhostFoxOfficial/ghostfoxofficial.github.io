@@ -32,3 +32,13 @@ My website with whole list of projects, also... I-I recommend going to /index.ht
 22. ghostfoxoriginal
 23. Ghost Fox Kaiju paradise
 24. Ghost Fox kaiju paradise
+25. Ghostfox
+26. Ghostfox Kaiju Paradise
+27. Ghostfox kaiju paradise
+28. Ghostfox Kaiju paradise
+29. Ghostfox Original
+30. Ghostfox Official
+31. Ghostfox Dev
+32. Ghostfox dev
+33. Ghostfox KP
+34. Ghostfox kp
