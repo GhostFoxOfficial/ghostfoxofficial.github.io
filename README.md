@@ -1,5 +1,5 @@
 ## Information
-My website with whole list of projects, also... I-I recommend going to /index.html f-f-for something
+My website with whole list of projects, also... I recommend going to /index.html for something
 
 # Projects
 1. GhostIDE: https://github.com/GhostFoxOfficial/ghostide
