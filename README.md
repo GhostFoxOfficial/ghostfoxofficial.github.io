@@ -6,6 +6,7 @@ My website with whole list of projects, also... I recommend going to /index.html
 2. Log4Java: https://github.com/GhostFoxOfficial/Log4Java
 3. InvisibleDPI: https://github.com/GhostFoxOfficial/InvisibleDPI
 4. Termux Ghost: https://github.com/GhostFoxOfficial/Termux-Ghost
+5. Minecraft PE PSP: https://github.com/GhostFoxOfficial/Minecraft-PE-PSP
 
 # Banned names from being stolen
 1. Ghost Fox
